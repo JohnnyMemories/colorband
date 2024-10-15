@@ -1,0 +1,876 @@
+﻿CC;Nombre Local;Formato;Subformato;Zona País;Zona Estrategica;DIRECCIÓN;Sector;Ciudad o Localidad asociada;Apertura Inicial
+2500;Pronto Pedro Fontova;Ciudad;P190;Santiago;Ciudad;Pedro Fontova 6789;Huechuraba;Santiago;2019
+2504;Pronto Departamental;Ciudad;P300;Santiago;Ciudad;Av. Vicuña Mackenna 5700;Macul;Santiago;1999
+2508;Pronto Las Condes;Ciudad;P300;Santiago;Ciudad;Las Condes 10912;Santiago;Santiago;1999
+2511;Pronto La Florida;Ciudad;P300;Santiago;Ciudad;Av. La Florida 9871;La Florida;Santiago;1999
+2518;Pronto C Henriquez;Ciudad;P190;Santiago;Ciudad;C. Henriquez 4583;Puente Alto;Santiago;2003
+2530;Pronto Vic Mackenna 1990;Ciudad;P100;Santiago;Ciudad;Vicuña Mackenna 1990;Nuñoa;Santiago;2003
+2531;Pronto Cantagallo;Ciudad;P300;Santiago;Ciudad;Las Condes 12145;Santiago;Santiago;2000
+2565;Pronto Manquehue;Ciudad;P100;Santiago;Ciudad;Manquehue 674 (211 97 96);Santiago;Santiago;1994
+2589;Pronto Gabriela;Ciudad;P100;Santiago;Ciudad;Gabriela 1482;Puente Alto;Santiago;1993
+2002;Barra Sagrada Familia ;Carretera;Barra;Sur;Salida;Ruta 5 Sur km. 195, lado Poniente, Sagrada Familia;Sagrada Familia;Curicó;2019
+2012;Pronto Barra San Carlos;Carretera;Barra;Sur;Retorno;Ruta 5 sur km. 383,5 San Carlos;San Carlos;San Carlos;2005
+2013;Pronto Barra San Rafael;Carretera;Barra;Sur;Retorno;Ruta 5 sur km. 237,6 San Rafael;San Rafael;Talca;2005
+2028;Pronto Barra Maule;Carretera;Barra;Sur;Salida;Ruta 5 Sur Km. 265;Maule;Talca;2004
+2052;Pronto Parral;Carretera;Kiosco;Sur;Salida;Ruta 5 Sur Km 338 Parral;Parral;Parral;2006
+2054;Pronto Barra San Fernando;Carretera;Barra;Sur;Retorno;Ruta 5 sur km. 126,8 San Rafael;San Fernando;San Fernando;2009
+2063;Pronto Barra San Javier;Carretera;Barra;Sur;Retorno;Ruta 5 Sur, km 275,2, lado oriente;San Javier;San Javier;2014
+2086;Pronto Requinoa;Carretera;Kiosco;Centro;Salida;Panamericana Sur Km. 95;Requínoa;Requínoa;2000
+2087;Pronto Romeral;Carretera;Kiosco;Sur;Retorno;Panamericana Sur Km 187, Curico;Romeral;Curico;2001
+2088;Pronto Barra Chimbarongo;Carretera;Barra;Sur;Salida;Ruta 5 Sur Km. 157;Chimbarongo;Chimbarongo;2015
+2610;Pronto Ciuc Piso 8;Stand Alone;Universidad;Santiago;Stand Alone;vicuña Mackenna 4860, piso 8. Centro de Innovación UC. San Joaquin.;Santiago;Santiago;2022
+2614;Pronto Udd Concepción;Stand Alone;Universidad;Centro;Stand Alone;Alnavillo 442, Concepción.;Concepción;Concepción;2022
+2615;Pronto Uai Peñalolen;Stand Alone;Universidad;Santiago;Stand Alone;Diagonal las Torres 2640;Peñalolen;0;2023
+2616;Pronto Uai Viña Del Mar;Stand Alone;Universidad;Viña del Mar;Stand Alone;Av. Padre Hurtado 750, Viña del Mar;Viña del Mar;0;2023
+2619;Pronto Uss Casino Sede Los Leones;Stand Alone;Universidad;Santiago;Stand Alone;Los Leones 7, Providencia;Santiago;Santiago;2023
+2621;Pronto Casino Unab;Stand Alone;Universidad;Santiago;Stand Alone;Fernandez Concha 700, Las Condes;Santiago;Santiago;2023
+2622;Casino Uai Peñalolen;Stand Alone;Universidad;Santiago;Stand Alone;Diagonal las Torres 2640;Peñalolen;0;2023
+2624;Pronto Duoc UC Viña del Mar;Stand Alone;Universidad;Centro;Stand Alone;Álvarez 2336;Viña del Mar;Viña del Mar;2023
+2789;Pronto Casino Uai Viña;Stand Alone;Universidad;Centro;Stand Alone;Av. Padre Hurtado 750;Viña del Mar;Viña del Mar;2023
+2790;Pronto UAI Peñalolen Casino Edif A;Stand Alone;Universidad;Santiago;Stand Alone;Diagonal las Torres 2640;Santiago;Santiago;2023
+2791;Pronto UAI Peñalolen Edificio E (casino chico);Stand Alone;Universidad;Santiago;Stand Alone;Diagonal Las Torres 2640;Peñalolen;Santiago;2023
+2792;Pronto UAI Peñalolen Edificio C (casino chico);Stand Alone;Universidad;Santiago;Stand Alone;Diagonal Las Torres 2640;Peñalolen;Santiago;2023
+3014;Pronto Ciuc Piso 1;Stand Alone;Universidad;Santiago;Stand Alone;Av. Vicuña Mackenna 4860, Macul;Santiago;Santiago;2010
+2004;Pronto Tambo Sierra Gorda Ote;Carretera;Kiosco;Norte;Salida;Ruta 5 Norte Oriente Km 1392;Antofagasta;Antofagasta;2023
+2009;Barra Pozo Al Monte;Carretera;Barra;Norte;Retorno;Ruta 5 Norte, Km. 1.810, Pozo Almonte;Pozo Almonte;Iquique;2016
+2502;Pronto Perez Zujovic;Ciudad;P190;Norte;Ciudad;Av. Edmundo Pérez Zujovic N° 10.675;Antofagasta;Antofagasta;2017
+2510;Pronto Antofagasta;Ciudad;P190;Norte;Ciudad;San Martin/Uribe;Antofagasta;Antofagasta;2008
+2514;Pronto Iquique;Ciudad;P190;Norte;Ciudad;Av. 11 de Septiembre 1732;Iquique;Iquique;2002
+2030;Pronto Barra Horcones;Carretera;Barra;Sur;Retorno;Ruta 160 Camino Arauco km 48,6 Oriente;Arauco;Concepción;2017
+2031;Pronto Penco;Carretera;Kiosco;Centro;Retorno;Ruta 150 Km. 3,75 Concepción;Penco;Concepción;1998
+2047;Barra Chillán Poniente;Carretera;Barra;Sur;Salida;Panamericana Sur Km 409,5;Chillán;Chillan;1998
+2048;Barra Chillán Oriente;Carretera;Barra;Sur;Retorno;Panamericana Sur Km 415;Chillán;Chillan;1992
+2064;Pronto Palomares;Carretera;Barra;Centro;Retorno;Cam. A Bulnes Km. 5 - Palomares;Concepción;Concepción;2014
+2065;Pronto Cabrero;Carretera;Barra;Sur;Salida;Ruta Q50 s/n Fundo Purisima s/n Cabrero;Cabrero;Cabrero;2014
+2517;Pronto Michimalonco;Ciudad;P190;Centro;Ciudad;Michimalonco 1300;San Pedro de la Paz;Concepción;2003
+2522;Pronto Talcahuano;Ciudad;P190;Centro;Ciudad;Autopista Concep Talcahuano 7001;Talcahuano;Concepción;2004
+2537;Pronto Los Carrera;Ciudad;P300;Centro;Ciudad;Los Carrera 801;Concepción;Concepción;1998
+2540;Pronto Paicaví;Ciudad;P190;Centro;Ciudad;Avda. Paicaví 1248;Concepción;Concepción;2007
+2544;Pronto Pedro De Valdivia;Ciudad;P190;Centro;Ciudad;Av. Pedro de Valdivia 1120;Concepción;Concepción;2006
+2016;Pronto Barra Lampa;Carretera;Barra;Centro;Salida;Ruta 5 Norte Km. 27,5 Colina;Lampa;Santiago;2000
+2026;Pronto Barra Mostazal Poniente;Carretera;Barra;Centro;Salida;Longitudinal Sur Km 67 Poniente;San Frco Mostazal;Rancagua;2003
+2027;Pronto Barra Mostazal Oriente;Carretera;Barra;Centro;Retorno;Longitudinal Sur Km 67 Oriente;San Frco Mostazal;Rancagua;2003
+2041;Pronto Llay Llay;Carretera;Kiosco;Norte;Retorno;Panamericana Norte Km. 90;Llayllay;Llayllay;1999
+2046;Pronto Tabolango;Carretera;Kiosco;Centro;Retorno;Ruta CH. 60 Km. 39,5;Tabolango;Con Con;1999
+2049;Pronto Barra Ruta 68;Carretera;Barra;Centro;Salida;Ruta 68 Km 17,5 (Pudahuel);Pudahuel;Pudahuel;2006
+2051;Pronto Barra Hijuelas;Carretera;Barra;Norte;Salida;Ruta 5 norte km. 103 Oriente, Hijuelas;Hijuelas;Hijuelas;2006
+2060;Pronto Marbella;Carretera;Kiosco;Centro;Retorno;Ruta F30E K;Marbella;Marbella;2013
+2069;Pronto Barra Placilla;Carretera;Barra;Centro;Retorno;Ruta 68 Km 105;Valparaíso;Valparaíso;2007
+2519;Pronto Las Salinas;Ciudad;P190;Centro;Ciudad;Av. Jorge Montt 2300;Viña del Mar;Viña del Mar;2003
+2543;Pronto Bosques De Montemar;Ciudad;P190;Centro;Ciudad;Avda. Edmundo Eluchans N° 3100;Con Con;Viña del Mar;2008
+2545;Pronto Troncal Sur;Ciudad;P190;Centro;Ciudad;Troncal Sur 106,65;Viña del Mar;Viña del Mar;2012
+2003;Pronto Barra Pargua;Carretera;Barra;Sur;Salida;Km 1038,5 Ruta 5 Sur Camino a Pargua;Pto Montt;Pto Montt;2024
+2015;Pronto Puerto Montt;Carretera;Kiosco;Sur;Retorno;Panamericana Sur Nro. 200;Pto Montt;Pto Montt;2000
+2020;Pronto Loncoche;Carretera;Kiosco;Sur;Salida;Ruta 5 Sur Km. 748.2;Loncoche;Loncoche;2002
+2021;Pronto Trafún Oriente;Carretera;Kiosco;Sur;Retorno;Ruta 5 Sur Km. 906.1;Trafun;San Plablo /Osorno;2002
+2053;Pronto San José De La Mariquina;Carretera;Kiosco;Sur;Retorno;Ruta 5 Sur Km 785,80;San Jose de Mariquina;San Jose de Mariquina;2007
+2055;Pronto Trafun Poniente;Carretera;Barra;Sur;Salida;Ruta 5 Sur km 904.3;Trafun;San Plablo /Osorno;2010
+2056;Pronto Puerto Varas;Carretera;Barra;Sur;Retorno;Ruta 5 Sur km 1009.4;Pto varas;Pto Varas;2010
+2025;Pronto Barra Los Vilos;Carretera;Barra;Norte;Retorno;Ruta 5 Norte Km. 207.7;Los Vilos;Los Vilos;2002
+2040;Pronto La Serena;Carretera;Kiosco;Norte;Salida;Panamericana Norte Km 480.7;Serena;Serena;1998
+2044;Pronto Los Vilos;Carretera;Kiosco;Norte;Retorno;Panamericana Norte Km 227;Los Vilos;Los Vilos;1999
+2045;Pronto Coquimbo;Carretera;Kiosco;Norte;Retorno;Panamericana Norte Km 455;Coquimbo;Coquimbo;2001
+2057;Pronto Socos;Carretera;Kiosco;Norte;Salida;Ruta 5 Norte km 370;Socos;Ovalle;1999
+2058;Pronto Barra Palo Colorado;Carretera;Barra;Norte;Salida;Ruta 5 Norte Km. 208;Los Vilos;Los Vilos;2011
+2089;Pronto Barra Copiapó;Carretera;Barra;Norte;Salida;Ruta 5 Norte Km. 838,4;Copiapó;Copiapó;2014
+2096;Pronto Copiapó;Carretera;Kiosco;Norte;Salida;Panamericana Norte Km 811;Copiapó;Copiapó;1992
+2534;Pronto Parcela 20;Ciudad;P190;Norte;Ciudad;ruta 5 norte KM 468, parcela 20, Peñuelas;Serena;Serena;2018
+2582;Pronto Chañaral;Carretera;Kiosco;Norte;Retorno;Ruta 5 Norte Longitudinal, Calle de Servicio Poniente km 975;Chañaral;Chañaral;2017
+2022;Pronto Los Angeles P;Carretera;Kiosco;Sur;Salida;Ruta 5 Sur Km. 518.5;Los Angeles;Los Angeles;2002
+2023;Pronto Barra Freire;Carretera;Barra;Sur;Retorno;Ruta 5 Sur Km. 696.15;Freire;Temuco;2002
+2024;Pronto Barra Lautaro;Carretera;Barra;Sur;Salida;Ruta 5 Sur Km. 645.7;Lautaro;Temuco;2002
+2043;Pronto Los Angeles C;Carretera;Kiosco;Sur;Salida;Panamericana Sur Km 510;Los Angeles;Los Angeles;1992
+2050;Pronto Los Angeles O;Carretera;Kiosco;Sur;Retorno;Ruta 5 Sur Km 488;Los Angeles;Los Angeles;2003
+2059;Pronto Barra Victoria;Carretera;Barra;Sur;Retorno;Ruta 5 Sur Km. 614,3, lado oriente.;Victoria;Victoria;2013
+2542;Pronto Alemania;Ciudad;P190;Sur;Ciudad;Avda. Alemania 083;Temuco;Temuco;2008
+2005;Pronto Laguna Chicureo ;Ciudad;P190;Santiago;Ciudad;Av. Chicureo 7100, Chicureo, Colina, Región Metropolitana;Santiago;Santiago;2024
+2029;Pronto Barra Costanera E6;Carretera;Barra;Centro;Ambas;Costanera Norte km. 33,85, Pudahuel;Pudahuel;Pudahuel;2004
+2506;Pronto La Dehesa;Ciudad;P190;Santiago;Ciudad;La Dehesa 2016;Santiago;Santiago;1999
+2509;Pronto Vitacura 5579;Ciudad;P300;Santiago;Ciudad;Vitacura 5579;Santiago;Santiago;1999
+2513;Pronto Portal La Dehesa ;Ciudad;P190;Santiago;Ciudad;Av. La Dehesa 1310;Santiago;Santiago;2014
+2521;Pronto Los Libertadores;Carretera;Barra;Centro;Ambas;Carretera Gral. San Martín 6,35;Colina;Santiago;2000
+2525;Pronto Costanera E1;Ciudad;P190;Santiago;Ciudad;Santa María 5621;Santiago;Santiago;2004
+2526;Pronto Costanera E2;Ciudad;P190;Santiago;Ciudad;Santa Maria 5621-B;Santiago;Santiago;2004
+2532;Pronto Chamisero;Ciudad;P190;Santiago;Ciudad;Chamisero 12400;Chamisero;Santiago;2016
+2541;Pronto Costanera E0;Ciudad;P190;Santiago;Ciudad;Costanera Norte km. 2 (Lado Norte);Santiago;Santiago;2011
+2548;Pronto Trapenses;Ciudad;P190;Santiago;Ciudad;Camino Los Trapenses 2250;Santiago;Santiago;2014
+2556;Pronto Vitacura 4207;Ciudad;P100;Santiago;Ciudad;Vitacura 4207;Santiago;Santiago;2004
+2010;Barra Nos;Carretera;Barra;Centro;Salida;Av. Presidente Jorge Alessandri Rodríguez n°20055;Nos;Nos;2017
+2011;Pronto Puente;Carretera;Barra;Centro;Ambas;Ruta 78 Km. 31.5;Talagante;Talagante;2006
+2019;Pronto Nos;Carretera;Kiosco;Centro;Salida;Panamericana Sur Km 27;Nos;Nos;2007
+2061;Pronto Ruta 78 O;Carretera;Kiosco;Centro;Retorno;Ruta 78 Km 31,5 Talagante;Talagante;Talagante;1992
+2062;Pronto Ruta 78 P;Carretera;Kiosco;Centro;Salida;Ruta 78 Km 31.5;Talagante;Talagante;1992
+2503;Pronto Maipú;Ciudad;P300;Santiago;Ciudad;Av. Pajaritos 3333;Maipú;Santiago;1999
+2507;Pronto San Pablo;Ciudad;P100;Santiago;Ciudad;San Pablo 1571;Santiago;Santiago;2003
+2515;Pronto Principe De Gales;Ciudad;P190;Santiago;Ciudad;Principe de Gales 6880;La Reina;Santiago;2002
+2538;Pronto Tobalaba;Ciudad;P190;Santiago;Ciudad;Avda. Tobalaba 11.567 Peñalolén;Peñalolen;Santiago;2006
+2539;Pronto Pajaritos;Ciudad;P190;Santiago;Ciudad;Av. Pajaritos 5200;Maipú;Santiago;2009
+2536;Pronto Isidora;Stand Alone;Calle;Santiago;Stand Alone;Isidora Goyenechea 2915;Santiago;Santiago;2019
+2549;Pronto Rosario Norte;Stand Alone;Calle;Santiago;Stand Alone;Rosario Norte 24;Santiago;Santiago;2024
+2612;Pronto Calle Plaza Perú Concepción;Stand Alone;Calle;Sur;Stand Alone;Plaza Peru 102, Concepción;Concepción;Concepción;2023
+2618;Pronto Metro Vicuña Mackenna;Stand Alone;Metro;Santiago;Stand Alone;Av. Americo Vespucio Frente al 7340;Santiago;Santiago;2023
+2761;Pronto Viña Plaza Sucre;Stand Alone;Calle;Centro;Stand Alone;P.º Cousiño 12-11, Viña del Mar;Viña del Mar;Valparaíso;2022
+2763;Pronto Calle Temuco;Stand Alone;Calle;Sur;Stand Alone;Arturo Prat 688;Temuco;Temuco;2023
+2766;Metro Pedro De Valdivia;Stand Alone;Metro;Santiago;Stand Alone;Av.Providencia 1880, L1.Providencia.;Santiago;Santiago;2022
+2767;Pronto Valparaíso;Stand Alone;Metro;Centro;Stand Alone;Av. Errázuriz 629, Valparaíso;Valparaíso;Valparaíso;2022
+2768;Pronto Bellavista Pío Nono;Stand Alone;Calle;Santiago;Stand Alone;Bellavista 04 esquina Pio Nono;Providencia;Santiago;2023
+2775;Pronto Lyon;Stand Alone;Calle;Santiago;Stand Alone;Av. Providencia 2202, L1. Providencia.;Santiago;Santiago;2022
+2780;Pronto Luis Thayer Ojeda;Stand Alone;Calle;Santiago;Stand Alone;Luis Thayer Ojeda 086;Santiago;Santiago;2023
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
